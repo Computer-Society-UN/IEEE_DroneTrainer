@@ -1,18 +1,3 @@
-[submodule "Plugins/Plugins/FlatNodes"]
-	path = Plugins/Plugins/FlatNodes
-	url = https://github.com/brumenn/FlatNodes.git
-[submodule "Plugins/Plugins/AsyncLoadingScreen"]
-	path = Plugins/Plugins/AsyncLoadingScreen
-	url = https://github.com/truong-bui/AsyncLoadingScreen.git
-[submodule "Plugins/Plugins/ActorLocker"]
-	path = Plugins/Plugins/ActorLocker
-	url = https://github.com/Gradess2019/ActorLocker.git
-[submodule "Plugins/Plugins/AutoSizeComments"]
-	path = Plugins/Plugins/AutoSizeComments
-	url = https://github.com/AutoSizeComments/AutoSizeComments.git
-[submodule "Plugins/Plugins/GraphFormatter"]
-	path = Plugins/Plugins/GraphFormatter
-	url = https://github.com/howaajin/graphformatter.git
 [submodule "Plugins/FlatNodes"]
 	path = Plugins/FlatNodes
 	url = https://github.com/brumenn/FlatNodes
